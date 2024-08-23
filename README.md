@@ -1,0 +1,1 @@
+# inklik-static
